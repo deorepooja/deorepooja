@@ -1,0 +1,21 @@
+{
+	"name": "DestinationDataset_o7j",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "AzureBlobStoragesink1",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "DelimitedText",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"container": "testconatiner"
+			},
+			"columnDelimiter": ",",
+			"escapeChar": "\\",
+			"quoteChar": "\""
+		},
+		"schema": []
+	}
+}
