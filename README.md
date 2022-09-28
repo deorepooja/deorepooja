@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @deorepooja
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in cloud
 - 🌱 I’m currently learning CLoud computing
-- 💞️ I’m looking to collaborate on DevOps engineer
+- 💞️ I’m looking to collaborate on cloud engineer
 - 📫 How to reach me deorepooja1@outlook.com
 
 <!---
